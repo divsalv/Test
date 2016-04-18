@@ -1,3 +1,5 @@
+/*Sorgente di prova*/
+
 #include <stdio.h>
 
 int main()
